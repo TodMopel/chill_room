@@ -1,0 +1,172 @@
+{
+    "about": {
+        "position": [
+            -0.351,
+            1.894,
+            -0.494
+        ],
+        "targetPosition": [
+            -0.758,
+            1.13,
+            -2.526
+        ],
+        "fov": 45,
+        "limits": {
+            "theta_azimuth": 1.373,
+            "phi_polar": 1.217
+        }
+    },
+    "art": {
+        "position": [
+            2.45,
+            1.42,
+            -0.987
+        ],
+        "targetPosition": [
+            2.182,
+            0.617,
+            -2.52
+        ],
+        "fov": 45,
+        "limits": {
+            "theta_azimuth": 1.397,
+            "phi_polar": 1.094
+        }
+    },
+    "contact": {
+        "position": [
+            -0.977,
+            2.3,
+            -1.635
+        ],
+        "targetPosition": [
+            -2.825,
+            1.854,
+            -1.58
+        ],
+        "fov": 45,
+        "limits": {
+            "theta_azimuth": -0.03,
+            "phi_polar": 1.334
+        }
+    },
+    "cv": {
+        "position": [
+            1.983,
+            2.82,
+            -1.191
+        ],
+        "targetPosition": [
+            1.944,
+            2.328,
+            -2.686
+        ],
+        "fov": 45.251,
+        "limits": {
+            "theta_azimuth": 1.545,
+            "phi_polar": 1.253
+        }
+    },
+    "original": {
+        "position": [
+            5.0,
+            2.5,
+            5.0
+        ],
+        "targetPosition": [
+            0.0,
+            0.775,
+            -0.0
+        ],
+        "fov": 45,
+        "limits": {
+            "theta_azimuth": 0.785,
+            "phi_polar": 1.331
+        }
+    },
+    "projects": {
+        "position": [
+            0.349,
+            2.198,
+            -0.081
+        ],
+        "targetPosition": [
+            0.636,
+            1.198,
+            -2.368
+        ],
+        "fov": 45,
+        "limits": {
+            "theta_azimuth": 1.696,
+            "phi_polar": 1.161
+        }
+    },
+    "Projet_1": {
+        "position": [
+            0.503,
+            1.674,
+            -0.952
+        ],
+        "targetPosition": [
+            0.977,
+            1.062,
+            -2.137
+        ],
+        "fov": 45.691,
+        "limits": {
+            "theta_azimuth": 1.951,
+            "phi_polar": 1.124
+        }
+    },
+    "Projet_2": {
+        "position": [
+            -0.026,
+            1.712,
+            -1.002
+        ],
+        "targetPosition": [
+            0.435,
+            1.062,
+            -2.137
+        ],
+        "fov": 45.769,
+        "limits": {
+            "theta_azimuth": 1.957,
+            "phi_polar": 1.083
+        }
+    },
+    "Projet_21": {
+        "position": [
+            2.361,
+            2.378,
+            -1.862
+        ],
+        "targetPosition": [
+            2.262,
+            2.174,
+            -2.654
+        ],
+        "fov": 47.399,
+        "limits": {
+            "theta_azimuth": 1.447,
+            "phi_polar": 1.321
+        }
+    },
+    "Projet_25": {
+        "position": [
+            2.207,
+            2.749,
+            -2.078
+        ],
+        "targetPosition": [
+            2.262,
+            2.615,
+            -2.654
+        ],
+        "fov": 48.097,
+        "limits": {
+            "theta_azimuth": 1.666,
+            "phi_polar": 1.344
+        }
+    }
+}
