@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "title": "À propos"
+    },
+    {
+      "id": "contact",
+      "title": "Contact"
+    },
+    {
+      "id": "cv",
+      "title": "Parcours",
+      "projects": [
+        {
+          "name": "Projet_21",
+          "title": "Dorcel",
+          "description": "Description du projet..."
+        },
+        {
+          "name": "Projet_22",
+          "title": "Titra Film",
+          "description": "Description du projet..."
+        },
+        {
+          "name": "Projet_25",
+          "title": "42",
+          "description": "Description du projet..."
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "Projets",
+      "projects": [
+        {
+          "name": "Projet_1",
+          "title": "Le jeu des 100 métiers",
+          "description": "Description du projet...",
+          "image": "/assets/projects-images/cent_metiers.png"
+        },
+        {
+          "name": "Projet_2",
+          "title": "SpacePep's",
+          "description": "Description du projet...",
+          "image": "/assets/projects-images/projet_spacepeps.gif"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "title": "Œuvres",
+      "projects": [
+        {
+          "name": "Projet_11",
+          "title": "Jeux vidéos",
+          "description": "Description du projet..."
+        },
+        {
+          "name": "Projet_12",
+          "title": "Musiques",
+          "description": "Description du projet..."
+        }
+      ]
+    }
+  ]
+}
