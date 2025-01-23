@@ -15,7 +15,8 @@ const Room3D = ({ cameraConfig, onProjectSelect, disableRaycaster }) => {
   const [hoveredObject, setHoveredObject] = useState(null);
   const [selectedObject, setSelectedObject] = useState(null);
 
-  const { scene } = useGLTF('/assets/model/scene.gltf');
+  const gltfPath = process.env.PUBLIC_URL + '/assets/model/scene.gltf';
+  const { scene } = useGLTF(gltfPath);
   
   useEffect(() => {
     scene.traverse((child) => {
