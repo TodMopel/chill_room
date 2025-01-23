@@ -2,6 +2,7 @@
   "name": "the-chill-den",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://TodMopel.github.io/chill_room",
   "dependencies": {
     "@react-spring/three": "^9.7.4",
     "@react-spring/web": "^9.7.4",
