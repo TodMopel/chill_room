@@ -1,7 +1,7 @@
 {
   "name": "the-chill-den",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-spring/three": "^9.7.4",
     "@react-spring/web": "^9.7.4",
