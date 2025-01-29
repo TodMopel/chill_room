@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chill_room/static/css/main.6359f855.css",
-    "main.js": "/chill_room/static/js/main.15dc71ee.js",
+    "main.js": "/chill_room/static/js/main.3b92c4a0.js",
     "static/media/logo.svg": "/chill_room/static/media/logo.8d65a612fd31b1dc779ce0227cfe3c77.svg",
     "index.html": "/chill_room/index.html",
     "main.6359f855.css.map": "/chill_room/static/css/main.6359f855.css.map",
-    "main.15dc71ee.js.map": "/chill_room/static/js/main.15dc71ee.js.map"
+    "main.3b92c4a0.js.map": "/chill_room/static/js/main.3b92c4a0.js.map"
   },
   "entrypoints": [
     "static/css/main.6359f855.css",
-    "static/js/main.15dc71ee.js"
+    "static/js/main.3b92c4a0.js"
   ]
 }
