@@ -15,7 +15,7 @@ const Room3D = ({ cameraConfig, onProjectSelect, disableRaycaster }) => {
   const [hoveredObject, setHoveredObject] = useState(null);
   const [selectedObject, setSelectedObject] = useState(null);
 
-  const gltfPath = process.env.PUBLIC_URL + '/assets/model/scene.gltf';
+  const gltfPath = process.env.PUBLIC_URL + '/assets/model/ChillRoom.glb';
   const { scene } = useGLTF(gltfPath);
   
   useEffect(() => {
