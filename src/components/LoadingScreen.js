@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react';
 
 const LoadingScreen = ({ isFadingOut }) => {
-  const loadingGif = process.env.PUBLIC_URL + '/assets/loading.gif';
-
   const styles = {
     loadingScreen: {
       position: 'fixed',
@@ -58,7 +56,7 @@ const LoadingScreen = ({ isFadingOut }) => {
 
   return (
     <div style={styles.loadingScreen}>
-      <img src={loadingGif} alt="Loading..." style={styles.loadingGif} />
+      <img src="/assets/loading.gif" alt="Loading..." style={styles.loadingGif} />
       <div style={styles.loadingBar}>
         <div style={styles.loadingProgress}></div>
       </div>

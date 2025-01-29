@@ -1,8 +1,7 @@
 {
   "name": "the-chill-den",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://todmopel.github.io/chill_room",
+  "private": true,
   "dependencies": {
     "@react-spring/three": "^9.7.4",
     "@react-spring/web": "^9.7.4",
@@ -23,8 +22,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,8 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
